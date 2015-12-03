@@ -1,6 +1,8 @@
 # QL-xmpp-bot
 A simple XMPP bot for Quakelive.
 
+Update Dec 2015: Looks like this is obsolete now, since QL has moved to Steam. But I'll keep it here as a little curiosity, about how QL used to work before the new updates.  
+
 ##Setup
 
 This script can be used to implement similar functionality to the 'qlm' bot. 
